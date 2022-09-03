@@ -1,3 +1,4 @@
+/*This program is to compute the sum of the digits of an integer. */
 import java.util.Scanner;
 public class Digitsum {
     public static void main(String args[]){

@@ -1,3 +1,4 @@
+/*This program is to create a non- static function that prints the sum of two numbers.*/
 import java.util.Scanner;
 
 public class Nonstat_sum {

@@ -1,3 +1,5 @@
+/*This program is to accept a number and check the number is even or not. 
+It should print 1 if the number is even or 0 if the number is odd. */
 import java.util.Scanner;
 
 public class Numcheck {

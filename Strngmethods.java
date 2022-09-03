@@ -1,3 +1,4 @@
+ /*Some basic Java String Methods. */
  public class Strngmethods {
 
     public static void main(String args[]){

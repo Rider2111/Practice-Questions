@@ -1,3 +1,4 @@
+/*This program is to create a static function to find the sum of two numbers. */
 import java.util.Scanner;
 
 public class Stat_sum {

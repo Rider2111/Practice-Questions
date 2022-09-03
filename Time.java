@@ -1,3 +1,4 @@
+/*This program is to convert seconds to hour, minute and seconds. */
 import java.util.Scanner;
 public class Time {
     

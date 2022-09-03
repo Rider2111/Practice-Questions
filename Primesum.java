@@ -1,5 +1,5 @@
+/*This program is to compute the sum of the first 100 prime numbers. */
 public class Primesum {
-
     public static void main(String args[]){
         int sum=0;
         int pr=1;
